@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="numberButton">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:backgroundTint">#7F8487</item>
+        <item name="android:fontFamily">@font/anton</item>
+        <item name="android:foregroundGravity">center_vertical|center|center_horizontal</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="button_style">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:alpha">0.90</item>
+        <item name="android:backgroundTint">#525D5E</item>
+        <item name="android:fontFamily">@font/myriadpro_regular_calculator_font</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+</resources>

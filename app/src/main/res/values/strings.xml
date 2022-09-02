@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="Zero">0</string>
+    <string name="Comma">,</string>
+    <string name="Equal">=</string>
+    <string name="results_goes_here">result</string>
+    <string name="divide">÷</string>
+    <string name="multiply">x</string>
+    <string name="add">+</string>
+    <string name="five">5</string>
+    <string name="equal">=</string>
+    <string name="zero">0</string>
+    <string name="percentage">%</string>
+    <string name="sign">⁺/-</string>
+    <string name="nine">9</string>
+    <string name="ac">AC</string>
+    <string name="two">2</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="comma">,</string>
+    <string name="four">4</string>
+    <string name="one">1</string>
+    <string name="substraction">-</string>
+    <string name="three">3</string>
+    <string name="eight">8</string>
+    <string name="rad">Rad</string>
+</resources>
